@@ -57,6 +57,8 @@ npm start
 ```
 ## Instalando a dependência para alternar entre rotas 
 
+Para alterar a rota no website, é necessário utilizar o React Router. No terminal, digite 
+
 ````
 npm i react-router-dom
 ````
@@ -65,6 +67,6 @@ npm i react-router-dom
 
 ## Instalar Thunder Client ⚡️
 
-`Extensions > Thunder Client > New Request` 
+Para integrar um back-end com o front-end desenvlvido, será necessário o Thunder Client. Por meio dele, é possível fazer as requisições desejadas e, portanto, integrar o front ao back-end.  
 
-No `GET`, digitar `localhost3000` e clicar em `Send`.
+> Para utilizar essa extensão, você deve acessar **Extensions** >> **Thunder Client**. Assim, requisitar um **New Request**. No campo de requisição, utilize o verbo **GET**, digite **localhost3000** e clique em **Send**.
