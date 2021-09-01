@@ -11,15 +11,12 @@
 
 </br>
 
-
 <div>
 
 ## Descrição 📄
 
 <p align = "justify"> Front-end web, desenvolvido em <img align="center" alt="React" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">, onde são apresentados os cards com algumas criaturas de Animais Fantásticos e Onde Habitam
 💼.</p>
-
-
 
 </div>
 
@@ -31,4 +28,14 @@
   
 <p align = "justify"> As belas ilustrações são de <a href="https://www.instagram.com/naomi_lord/" target="_blank" rel="noopener">@naomi_lord</a> (não deixei de confirir mais trabalhos da artista 😉).</p>
 
+</div>
+
+</br>
+
+<div>
+  
+<h2>Front-end web 💻 </h2>
+  
+<p> Para mais detalhes da aplicação e das dependências e extensões utilizadas, leia <a href="https://github.com/arianacabral/Fantastic-Beasts/blob/main/front-end-web/Instructions.md" target="_blank" rel="noopener">Instructions</a>.</p>  
+  
 </div>
