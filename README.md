@@ -23,19 +23,19 @@
 </br>
 
 <div>
-
-## Art 🎨
-  
-<p align = "justify"> As belas ilustrações são de <a href="https://www.instagram.com/naomi_lord/" target="_blank" rel="noopener">@naomi_lord</a> (não deixei de confirir mais trabalhos da artista 😉).</p>
-
-</div>
-
-</br>
-
-<div>
   
 <h2>Front-end web 💻 </h2>
   
 <p> Para mais detalhes da aplicação e das dependências e extensões utilizadas, leia <a href="https://github.com/arianacabral/Fantastic-Beasts/blob/main/front-end-web/Instructions.md" target="_blank" rel="noopener">Instructions</a>. Em <a href="https://github.com/arianacabral/Fantastic-Beasts/blob/main/front-end-web/Instructions.md" target="_blank" rel="noopener">Instructions</a>, você encontrará o passo-a-passo para criar o projeto do zero e para integrar o front-end desenvolvido com um back-end.</p>  
   
+</div>
+
+</br>
+
+<div>
+
+## Art 🎨
+  
+<p align = "justify"> As belas ilustrações são de <a href="https://www.instagram.com/naomi_lord/" target="_blank" rel="noopener">@naomi_lord</a> (não deixei de confirir mais trabalhos da artista 😉).</p>
+
 </div>
