@@ -1,6 +1,6 @@
 <h1 align = "center">
-  Fantastic Beasts Cards 
-  <img ali = "FantasticBeasts" title = "Fantastic Beasts Cards" width="100" src = "https://i.pinimg.com/originals/b2/a8/88/b2a888b00735b2cc7fa9a7c8a0af07a5.jpg"/>
+  Fantastic Beasts 
+  <img ali = "FantasticBeasts" title = "Fantastic Beasts" width="100" src = "https://i.pinimg.com/originals/b2/a8/88/b2a888b00735b2cc7fa9a7c8a0af07a5.jpg"/>
 </h1>
 
 </br>
