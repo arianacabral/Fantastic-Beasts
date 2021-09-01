@@ -36,6 +36,6 @@
 
 ## Art 🎨
   
-<p align = "justify"> As belas ilustrações são de <a href="https://www.instagram.com/naomi_lord/" target="_blank" rel="noopener">@naomi_lord</a> (não deixei de confirir mais trabalhos da artista 😉).</p>
+<p align = "justify"> As belas ilustrações são de <a href="https://www.instagram.com/naomi_lord/" target="_blank" rel="noopener">@naomi_lord</a> (não deixei de conferir mais trabalhos da artista 😉).</p>
 
 </div>
