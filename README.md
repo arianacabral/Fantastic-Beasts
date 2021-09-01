@@ -16,7 +16,7 @@
 
 ## Descrição 📄
 
-<p align = "justify"> Front-end, desenvolvido em <img align="center" alt="React" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">, onde são apresentados os cards com algumas criaturas de Animais Fantásticos e Onde Habitam
+<p align = "justify"> Front-end web, desenvolvido em <img align="center" alt="React" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">, onde são apresentados os cards com algumas criaturas de Animais Fantásticos e Onde Habitam
 💼.</p>
 
 
