@@ -36,6 +36,6 @@
   
 <h2>Front-end web 💻 </h2>
   
-<p> Para mais detalhes da aplicação e das dependências e extensões utilizadas, leia <a href="https://github.com/arianacabral/Fantastic-Beasts/blob/main/front-end-web/Instructions.md" target="_blank" rel="noopener">Instructions</a>.</p>  
+<p> Para mais detalhes da aplicação e das dependências e extensões utilizadas, leia <a href="https://github.com/arianacabral/Fantastic-Beasts/blob/main/front-end-web/Instructions.md" target="_blank" rel="noopener">Instructions</a>. Em <a href="https://github.com/arianacabral/Fantastic-Beasts/blob/main/front-end-web/Instructions.md" target="_blank" rel="noopener">Instructions</a>, você encontrará o passo-a-passo para criar o projeto do zero e para integrar o front-end desenvolvido com um back-end.</p>  
   
 </div>
