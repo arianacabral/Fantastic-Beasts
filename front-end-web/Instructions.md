@@ -14,7 +14,7 @@ Para facilitar a formatação do script, você pode utilizar a extensão _Pretti
 
 ## Iniciando um novo projeto
 
-No _terminal_ do Visual Studio Code, selecione uma pasta onde será salvo o arquivos do projeto.
+No _terminal_ do Visual Studio Code, selecione uma pasta onde será salvo os arquivos do projeto.
 
 ```
 cd C:/Ariana/Documentos/Projetos
