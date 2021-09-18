@@ -9,8 +9,6 @@
   <img ali = "creatures" title = "creatures" src = "/src/interface.png"/>
 </div>
 
-</br>
-
 <div>
 
 ## Descrição 📄
@@ -27,6 +25,16 @@
 <h2>Front-end web 💻 </h2>
   
 <p> Para mais detalhes da aplicação e das dependências e extensões utilizadas, leia <a href="https://github.com/arianacabral/Fantastic-Beasts/blob/main/front-end-web/Instructions.md" target="_blank" rel="noopener">Instructions</a>. Em <a href="https://github.com/arianacabral/Fantastic-Beasts/blob/main/front-end-web/Instructions.md" target="_blank" rel="noopener">Instructions</a>, você encontrará o passo-a-passo para criar o projeto do zero e para integrar o front-end desenvolvido com um back-end.</p>  
+ 
+**Browser**
+  
+<div>
+  <img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/chrome-logo.png?raw=true" width="30" height="30"> 
+  <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/firefox-logo.png" width="30" height="30">
+  <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/edge-logo.png" width="30" height="30">
+  <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/opera-logo.png" width="30" height="30">
+</div>  
+  
   
 </div>
 
